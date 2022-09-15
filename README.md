@@ -5,6 +5,7 @@ Agregador de links e algumas coisas sobre mim.
 ## 💻 Tecnologias utilizadas:
 
 - HTML
+- CSS
 
 ## 🎨 Layout:
 
