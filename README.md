@@ -1,6 +1,6 @@
 ## Sobre o Projeto:
 
-Agregador de links e algumas coisas sobre mim.
+Agregador de links para listar algumas coisas que eu gosto.
 
 ## 💻 Tecnologias utilizadas:
 
